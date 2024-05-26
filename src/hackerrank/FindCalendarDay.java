@@ -11,6 +11,6 @@ public class FindCalendarDay {
     }
 
     public static void main(String[] args) {
-       System.out.println("Day of week is "+findDay(5,13,2024));
+       System.out.println("Day of week: "+findDay(5,13,2024));
     }
 }
