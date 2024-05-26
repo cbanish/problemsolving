@@ -1,7 +1,9 @@
 package hackerrank;
 
 import java.util.*;
-
+/*
+Solution to find the most frequent number in a list
+ */
 public class MigratoryBirds {
     public static int migratoryBirds(List<Integer> arr) {
        Map<Integer,Integer> countMap=new HashMap<>();
